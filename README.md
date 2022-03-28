@@ -1,0 +1,1 @@
+# seamless-compressed-textures
